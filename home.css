@@ -1,7 +1,7 @@
 
 #start-top {
     padding: 0%;
-    margin: 0%;
+    margin-top: 15%;
     text-align: center;
     overflow: hidden;
     transition: 1s;
@@ -14,12 +14,9 @@
 }
 #top-content2 {
     width: max-content;
-    padding-left: 0;
+    padding-left: 1%;
     padding-top: 0.001%;
     color: white;
-}
-#top-content2 h2 {
-    padding: 1%;
 }
 .offer {
     color: white;
@@ -60,7 +57,7 @@ a {
     color: white;
 }
 body {
-    background-image: url("solarsystem1.png");
+    background-image: url("bg-home3.png");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
