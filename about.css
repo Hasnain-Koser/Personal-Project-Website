@@ -51,6 +51,9 @@
     float: right;
     transition: 0.7s;
 }
+.about-us {
+    color: white;
+}
 body {
     background-image: url("solarsystem3.png");
     background-attachment: fixed;

@@ -7,22 +7,26 @@
     transition: 1s;
 }
 #top-content1 {
-    background-color: slateblue;
-    width: 20%;
-    position: relative;
-    left: 40%;
-}
-#top-content1 h1 {
-    padding: 2.5%;
+    width: max-content;
+    padding-left: 1%;
+    padding-top: 0.001%;
+    color: white;
 }
 #top-content2 {
-    background-color: slateblue;
-    width: 40%;
-    position: relative;
-    left: 30%;
+    width: max-content;
+    padding-left: 0;
+    padding-top: 0.001%;
+    color: white;
 }
 #top-content2 h2 {
     padding: 1%;
+}
+.offer {
+    color: white;
+}
+#containers {
+    opacity: 0;
+    transition: 3s;
 }
 .sim {
     text-align: center;
