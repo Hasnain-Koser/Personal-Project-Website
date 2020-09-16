@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.nav {
+    background-color: #333;
+    width: 100%;
+    border-collapse: collapse;
+    padding: 0%;
+    margin: 0%;
+}
+.links {
+    width: 10%;
+    text-align: center;
+}
+.links a {
+    text-decoration: none;
+    color: white;
+    font-size: medium;
+}
+.links:hover {
+    background-color:darkcyan;
+}
+#title {
+    width: 50%;
+    padding-left: 5%;
+}
+#title a {
+    text-decoration: none;
+    color: white;
+}
+.foot {
+    background-color: #333;
+    color: white;
+    width: 100%;
+}

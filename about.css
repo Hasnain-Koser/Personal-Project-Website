@@ -1,0 +1,61 @@
+#who {
+    text-align: left;
+    width: 10%;
+    overflow: hidden;
+    background-color: darkslateblue;
+    padding: 2%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    color: darkslateblue;
+    transition: 0.7s;
+    clear: both;
+}
+#what {
+    text-align: right;
+    width: 10%;
+    overflow: hidden;
+    background-color: darkmagenta;
+    padding: 2%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    color: darkmagenta;
+    transition: 0.7s;
+    float: right;
+    clear: both;
+}
+#why {
+    text-align: left;
+    width: 10%;
+    overflow: hidden;
+    background-color: indianred;
+    padding: 2%;
+    margin: 5%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    color: indianred;
+    transition: 0.7s;
+    clear: both;
+}
+#how {
+    text-align: right;
+    width: 10%;
+    overflow: hidden;
+    background-color: darkorchid;
+    padding: 2%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    color: darkorchid;
+    float: right;
+    transition: 0.7s;
+}
+body {
+    background-image: url("solarsystem3.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+  }
