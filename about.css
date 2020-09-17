@@ -33,7 +33,7 @@
     transition: 0.7s;
     float: right;
     clear: both;
-    box-shadow: 5px 5px lightskyblue;
+    box-shadow: 5px 5px lightpink;
 }
 #why {
     text-align: left;
@@ -47,7 +47,7 @@
     color: indianred;
     transition: 0.7s;
     clear: both;
-    box-shadow: 5px 5px lightskyblue;
+    box-shadow: 5px 5px lightsalmon;
 }
 #how {
     text-align: right;
@@ -61,7 +61,7 @@
     color: darkorchid;
     float: right;
     transition: 0.7s;
-    box-shadow: 5px 5px lightskyblue;
+    box-shadow: 5px 5px orchid;
 }
 .about-us {
     color: white;
