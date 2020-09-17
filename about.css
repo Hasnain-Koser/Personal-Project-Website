@@ -1,3 +1,11 @@
+#start-logo {
+    max-width: 10%;
+    max-height: 10%;
+    padding: 0;
+    float: right;
+    clear: both;
+    border-radius: 100px;
+}
 #who {
     text-align: left;
     width: 10%;
@@ -10,6 +18,7 @@
     color: darkslateblue;
     transition: 0.7s;
     clear: both;
+    box-shadow: 5px 5px lightskyblue;
 }
 #what {
     text-align: right;
@@ -24,6 +33,7 @@
     transition: 0.7s;
     float: right;
     clear: both;
+    box-shadow: 5px 5px lightskyblue;
 }
 #why {
     text-align: left;
@@ -37,6 +47,7 @@
     color: indianred;
     transition: 0.7s;
     clear: both;
+    box-shadow: 5px 5px lightskyblue;
 }
 #how {
     text-align: right;
@@ -50,9 +61,12 @@
     color: darkorchid;
     float: right;
     transition: 0.7s;
+    box-shadow: 5px 5px lightskyblue;
 }
 .about-us {
     color: white;
+    font-size: xx-large;
+    vertical-align: middle;
 }
 body {
     background-image: url("about-bg.png");

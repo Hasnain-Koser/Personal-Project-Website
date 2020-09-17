@@ -24,7 +24,9 @@ body {
 }
 #title {
     width: 50%;
-    padding-left: 5%;
+    margin: 2.5%;
+    margin-top: 1%;
+    padding-left: 2.5%;
 }
 #title a {
     text-decoration: none;
@@ -34,4 +36,11 @@ body {
     background-color: #333;
     color: white;
     width: 100%;
+}
+#logo {
+    max-width: 10%;
+    max-height: 10%;
+    position: relative;
+    top: 10px;
+    border-radius: 100px;
 }
